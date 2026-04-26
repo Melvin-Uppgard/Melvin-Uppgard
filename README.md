@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Melvin
 
-<!--
-**Melvin-Uppgard/Melvin-Uppgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Finance and Business Analytics student at the University of South Florida. I am focused on building a strong foundation in financial analysis and data-driven decision making.
 
-Here are some ideas to get you started:
+## Academic Interests
+- Finance  
+- Business Analytics  
+- Data Analysis  
+- Financial Modeling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Goals
+I am working toward a career in financial analysis, corporate finance, or wealth management. I am interested in roles that combine finance with data and analytics to support better business decisions.
+
+## Skills and Tools
+- Microsoft Excel  
+- Data Analysis  
+- Python (learning)  
+- Financial Analysis  
+
+## Currently Working On
+- Developing technical skills in Excel and Python  
+- Building projects related to data analysis and finance  
+- Gaining experience through leadership and real-world applications  
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/melvin-uppgard-978547351/
